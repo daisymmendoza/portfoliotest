@@ -548,3 +548,175 @@ body {
         margin-top: -10px;
     }
 }
+
+/*
+@media screen and (max-width: 600px) {
+    .projectSec, .projectHome {
+        grid-template-columns: auto;
+    }
+
+    /* Navbar
+    #navbar {
+        font-size: .9em;
+    }
+
+    #navbar a {
+        padding: 14px 9px;
+    }
+
+    /* Home page
+    #introGreet {
+        font-size: .9em;
+    }
+
+    #name {
+        font-size: 2.7em;
+    }
+
+    #nameDesc {
+        font-size: .9em;
+        margin-top: 10px;
+        inline-size: 350px;
+    }
+
+    #lrnBtn, #viewBtn, .contactBtn {
+        font-size: .8em;
+        margin-top: 25px;
+    }
+
+    .viewbtnContainer {
+        margin-top: 30px;
+    }
+
+    .projectHomeTitle {
+        padding: 50px;
+        padding-bottom: 70px;
+        font-size: 1.3em;
+    }
+
+    .projectHome {
+        gap: 50px;
+        margin-top: 20px;
+    }
+
+    #projectDesc {
+        font-size: 1em;
+    }
+
+    .contactHomeSec {
+        margin-top: 50px;
+    }
+    
+    .contactDesc {
+        margin-top: -15px;
+        font-size: 1em;
+    }
+
+    .contactBtn {
+        margin-top: 0px;
+    }
+
+     /* Project page   
+    .projectTitle {
+        padding: 65px;
+        padding-bottom: 50px;
+        font-size: 1.3em;
+    }
+    
+    .projectSec {
+        margin-top: -35px;
+        gap: 15px;
+    }
+    
+        .projectContainer {
+            background-color: transparent;
+            width: 170px;
+            height: 215px;
+            perspective: 1000px;
+            margin-top: 25px;
+        }
+    
+        .projectImg {
+            width: 170px;
+            height: 170px;
+        }
+    
+        .cardCap {
+            font-size: 1em;
+        }
+    
+        .desc {
+            font-size: .9em;
+        }
+    
+        /* About page
+        .aboutTitle {
+            padding: 65px;
+            padding-bottom: 50px;
+            font-size: 1.3em;
+        }
+        
+        .aboutSec {
+            width: 80%;
+            display: flex;
+            flex-direction: column;
+            margin-left: auto;
+            margin-right: auto;
+        }
+        
+        #aboutDescLarge {
+            color: #C3F9BA;
+        }
+        
+        #aboutDesc {
+            color: #D9D9D9;
+            font-size: 1.1em;
+        }
+    
+        .aboutImgContainer {
+            text-align: center;
+        }
+    
+        #aboutImg {
+            width: 300px;
+            padding-top: 25px;
+        }
+    
+        /* Contact page
+        .contactTitle {
+            padding: 65px;
+            padding-bottom: 50px;
+            font-size: 1.3em;
+        }
+    
+        .contactSec {
+            margin-bottom: 120px;
+        }
+
+    /* Contact page
+    .contactSec {
+        width: 50%;
+        flex-direction: column;
+        line-height: 20px;
+        justify-content: center;
+    }
+    
+    .emailSec, .gitSec {
+        margin-top: 0px;
+        padding: 20px;
+    }
+    
+    .contactImg {
+        width: 120px;
+    }
+    
+    .contactSubhead {
+        margin-top: 15px;
+        font-size: .9em;
+    }
+    
+    .contactBtn {
+        margin-top: -10px;
+    }
+}
+*/
